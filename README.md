@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doasis123
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning how web scrapping
+- I’m currently learning web scrapping
 
 
 
